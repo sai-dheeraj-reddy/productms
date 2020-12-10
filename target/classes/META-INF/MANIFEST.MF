@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Levanth
+Build-Jdk: 11.0.9
+Implementation-Title: ProductMS
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.product
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/ProductMS
+Created-By: Maven Integration for Eclipse
+

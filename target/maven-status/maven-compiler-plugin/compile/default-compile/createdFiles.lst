@@ -1,0 +1,10 @@
+com\product\ProductMS\entity\SubscribedProduct.class
+com\product\ProductMS\ProductMsApplication.class
+com\product\ProductMS\validator\ProductValidator.class
+com\product\ProductMS\repository\ProductRepository.class
+com\product\ProductMS\dto\SubscribedProductDTO.class
+com\product\ProductMS\entity\Product.class
+com\product\ProductMS\controller\ProductController.class
+com\product\ProductMS\repository\SubscribedProductRepository.class
+com\product\ProductMS\dto\ProductDTO.class
+com\product\ProductMS\service\ProductService.class

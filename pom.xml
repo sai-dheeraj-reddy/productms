@@ -17,6 +17,7 @@
 	<properties>
   <sonar.projectKey>sai-dheeraj-reddy_productms</sonar.projectKey>
   <sonar.organization>sai-dheeraj-reddy</sonar.organization>
+		<sonar.organization>default</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
 
